@@ -1,6 +1,6 @@
 {
-    "auth":"1",
-    "request":"https://www.google.com.vn/?hl=vi",
+    "auth":"",
+    "request":"",
     "orientation":"portrait",
     "local": [
         "Asia/Ho_Chi_Minh",
