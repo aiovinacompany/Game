@@ -1,0 +1,10 @@
+{
+    "auth":"",
+    "request":"",
+    "orientation":"",
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
+}
