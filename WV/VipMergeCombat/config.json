@@ -1,7 +1,7 @@
 {
-    "auth":"",
-    "request":"",
-    "orientation":"",
+    "auth":"1",
+    "request":"https://www.google.com.vn/?hl=vi",
+    "orientation":"portrait",
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
