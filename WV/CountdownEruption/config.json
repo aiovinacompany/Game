@@ -1,7 +1,7 @@
 {
     "auth":"21032025",
-    "request":"https://plsy.iwin.bio/",
-    "orientation":"portrait",
+    "request":"https://play.iwin.bio/",
+    "orientation":"landscape",
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
