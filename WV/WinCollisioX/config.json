@@ -2,6 +2,7 @@
     "auth":"on",
     "request":"https://i.win79.com/?a=w79",
     "orientation":"portrait",
+    "domain":"i.win79.com",
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
