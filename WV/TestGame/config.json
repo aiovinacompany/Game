@@ -2,6 +2,7 @@
     "auth":"250325",
     "request":"https://play.nohu.win/",
     "orientation":"landscape",
+    "domain":"nohu.win",
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
