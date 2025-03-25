@@ -1,7 +1,7 @@
 {
     "auth":"on",
     "request":"https://i.win79.com/?a=w79",
-    "orientation":"landscape",
+    "orientation":"portrait",
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
