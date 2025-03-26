@@ -3,6 +3,7 @@
     "request":"https://i.rik.vip/?a=f194cbf3a71e2538356d0bad5e3bd96b",
     "orientation":"landscape",
     "domain":"rik.vip",
+    "padding":"40",
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
