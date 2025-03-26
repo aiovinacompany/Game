@@ -1,8 +1,11 @@
 {
-    "auth":"on",
+    "auth":"260325",
     "request":"https://i.win79.com/?a=w79",
     "orientation":"portrait",
-    "domain":"win79.com",
+    "padding":"40",
+    "domain":[
+        "win79.com",
+    ],
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
