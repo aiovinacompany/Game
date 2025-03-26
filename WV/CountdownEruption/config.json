@@ -1,7 +1,11 @@
 {
-    "auth":"21032025",
-    "request":"https://play.nohu.win/",
-    "orientation":"landscape",
+    "auth":"",
+    "request":"",
+    "orientation":"",
+    "padding":"40",
+    "domain":[
+        
+    ],
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
