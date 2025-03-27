@@ -1,10 +1,10 @@
 {
     "auth":"260325",
-    "request":"https://i.win79.com/?a=w79",
-    "orientation":"portrait",
+    "request":"https://play.nohu.win/",
+    "orientation":"landscape",
     "padding":"40",
     "domain":[
-        "win79.com",
+        "nohu.win",
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
