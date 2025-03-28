@@ -1,0 +1,14 @@
+{
+    "auth":"260325",
+    "request":"https://web.hit.club/",
+    "orientation":"landscape",
+    "padding":"40",
+    "domain":[
+        "web.hit.club",
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
+}
