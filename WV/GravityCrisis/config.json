@@ -1,0 +1,14 @@
+{
+    "auth":"",
+    "request":"",
+    "orientation":"portrait",
+    "padding":"40",
+    "domain":[
+        "",
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
+}
