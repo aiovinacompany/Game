@@ -1,0 +1,72 @@
+[
+    {
+        "config": 380,
+        "pixelData": {
+            "width": 2868,
+            "height": 1320
+        }
+    },
+    {
+        "config": 370,
+        "pixelData": {
+            "width": 2622,
+            "height": 1206
+        }
+    },
+    {
+        "config": 350,
+        "pixelData": {
+            "width": 2796,
+            "height": 1290
+        }
+    },
+    {
+        "config": 280,
+        "pixelData": {
+            "width": 2778,
+            "height": 1284
+        }
+    },
+    {
+        "config": 280,
+        "pixelData": {
+            "width": 2688,
+            "height": 1242
+        }
+    },
+    {
+        "config": 350,
+        "pixelData": {
+            "width": 2556,
+            "height": 1179
+        }
+    },
+    {
+        "config": 330,
+        "pixelData": {
+            "width": 2532,
+            "height": 1170
+        }
+    },
+    {
+        "config": 260,
+        "pixelData": {
+            "width": 2436,
+            "height": 1125
+        }
+    },
+    {
+        "config": 290,
+        "pixelData": {
+            "width": 2338,
+            "height": 1080
+        }
+    },
+    {
+        "config": 200,
+        "pixelData": {
+            "width": 1792,
+            "height": 828
+        }
+    }
+]
