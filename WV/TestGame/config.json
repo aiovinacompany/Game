@@ -2,7 +2,7 @@
     "auth":"010425",
     "request":"https://web.hit.club/",
     "orientation":"landscape",
-    "padding":"40",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
         "web.hit.club",
     ],
