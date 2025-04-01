@@ -1,10 +1,10 @@
 {
     "auth":"010425",
-    "request":"https://www.google.com/",
+    "request":"https://web.hit.club/",
     "orientation":"landscape",
     "padding":"40",
     "domain":[
-        "www.google.com",
+        "web.hit.club",
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
