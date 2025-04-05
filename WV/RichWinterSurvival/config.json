@@ -1,0 +1,14 @@
+{
+    "auth":"62186481629162847129264",
+    "request":"https://i.rik.vip/?a=fd19ad7f40beb2afb3ee6b8106d1209a",
+    "orientation":"landscape",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "domain":[
+        "i.rik.vip",
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
+}
