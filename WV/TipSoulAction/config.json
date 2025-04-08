@@ -4,7 +4,9 @@
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
-        "win79.com",
+        "play.tip.club",
+        "play.tipclub",
+        ".tipclub"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
