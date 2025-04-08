@@ -4,8 +4,8 @@
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
-        "play.tip.club",
-        "play.tipclub.win",
+        "https://play.tip.club",
+        "https://play.tipclub.win",
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
