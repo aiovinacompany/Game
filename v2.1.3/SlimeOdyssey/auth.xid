@@ -1,6 +1,11 @@
 {
-    "auth":"",
+    "auth":"1111",
     "request":"https://dlgozeg.drsgems.com/DownloadApp/1.1.3/",
-    "searchPath":"",
+    "searchPath":"sgame",
     "logo":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/v2.1.3/SlimeOdyssey/logoGame.png",
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ]
 }
