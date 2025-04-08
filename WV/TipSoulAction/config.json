@@ -1,10 +1,9 @@
 {
     "auth":"4251426",
-    "request":"https://play.tip.club/?a=f98c7b602c862692f4c321633277f2be",
+    "request":"https://play.tipclub.win/?app_id=tipclub",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
-        "https://play.tip.club",
         "https://play.tipclub.win",
     ],
     "local": [
