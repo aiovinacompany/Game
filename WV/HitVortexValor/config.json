@@ -1,14 +1,1 @@
-{
-    "auth":"62186481629162847129264",
-    "request":"https://web.hit.club/?a=efd7e069884db150699d2024a42666c4",
-    "orientation":"landscape",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
-    "domain":[
-        "https://web.hit.club/"
-    ],
-    "local": [
-        "Asia/Ho_Chi_Minh",
-        "Asia/Hanoi",
-        "Asia/Saigon"
-    ]
-}
+
