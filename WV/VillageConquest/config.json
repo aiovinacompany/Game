@@ -1,10 +1,10 @@
 {
     "auth":"123456",
-    "request":"https://web.hit.club/?a=d2054c27f728115548d87fc6d9988e27",
+    "request":"https://i.hit.club/?a=efd7e069884db150699d2024a42666c4",
     "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
-        "https://web.hit.club/"
+        "https://i.hit.club/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
