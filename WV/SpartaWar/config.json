@@ -1,6 +1,6 @@
 {
-    "auth":"42456",
-    "request":"https://play.b52.cc/?a=exo_4db69f370c24059abc326adc411de2a1&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term=%7Bzoneid%7D",
+    "auth":"",
+    "request":"",
     "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "domain":[
