@@ -2,7 +2,8 @@
     "auth":"85963",
     "request":"https://web.top88.vip/?a=exo_e64ac8405b813f8a983f007d8fb6bf7f&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
     "orientation":"landscape",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
+    "gameName":"TO"
     "domain":[
         "https://web.top88.vip/"
     ],
