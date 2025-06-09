@@ -1,11 +1,11 @@
 {
-    "auth":"234532",
-    "request":"https://i.vip79.com/?a=exo_c92aea04aa6e95e6cff6289d2e1b36f4",
-    "orientation":"portrait",
+    "auth":"51310",
+    "request":"https://web.top88.vip/?a=exo_e64ac8405b813f8a983f007d8fb6bf7f&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
+    "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"VI",
+    "gameName":"TO",
     "domain":[
-        "https://i.vip79.com/"
+        "https://web.top88.vip/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
