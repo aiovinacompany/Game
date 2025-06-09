@@ -1,11 +1,11 @@
 {
     "auth":"234532",
-    "request":"https://i.vip79.com/?a=exo_c92aea04aa6e95e6cff6289d2e1b36f4",
-    "orientation":"portrait",
+    "request":"https://web.hit.club/?a=efd7e069884db150699d2024a42666c4",
+    "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"VI",
+    "gameName":"HI",
     "domain":[
-        "https://i.vip79.com/"
+        "https://web.hit.club/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
