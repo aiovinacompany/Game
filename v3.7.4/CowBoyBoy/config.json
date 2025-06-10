@@ -1,9 +1,19 @@
 {
     "open": true,
     "local": [
-        "Asia/Seoul"
+        "Asia/Seoul",
+        "Asia/Hanoi",
+        "Asia/Ho_Chi_Minh",
+        "Asia/Saigon",
+        "Asia/Vientiane",
+        "Asia/Phnom_Penh",
+        "Asia/Tokyo"
     ],
     "ip": [
         "KR",
+        "VN",
+        "KH",
+        "JP",
+        "LA"
     ]
 }
