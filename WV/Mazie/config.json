@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://i.win79.com/?a=27a660b093f060561225a2b6f630c679",
+    "auth":"855285",
+    "request":"https://play.tipclub.win/?a=exo_f98c7b602c862692f4c321633277f2be",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"WI",
+    "gameName":"TI",
     "domain":[
-        "https://i.win79.com/"
+        "https://play.tipclub.win/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
