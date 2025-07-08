@@ -1,0 +1,17 @@
+{
+    "auth":"3543",
+    "request":"https://cuuam.gosu.vn/home/intro/tay-doc",
+    "orientation":"landscape",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "domain":[
+        "https://cuuam.gosu.vn/"
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ],
+    "ip": [
+        "VN"
+    ]
+}
