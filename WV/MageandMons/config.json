@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://web.top88.vip/?a=exo_e64ac8405b813f8a983f007d8fb6bf7f&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
-    "orientation":"landscape",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
-    "gameName":"TO",
+    "auth":"54321",
+    "request":"https://da88.win/?a=exo_2a71afaebe561f3c9ba5137036e0f38d&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term=%7Bzoneid%7D",
+    "orientation":"portrait",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
+    "gameName":"DA",
     "domain":[
-        "https://web.top88.vip/"
+        "https://da88.win/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
