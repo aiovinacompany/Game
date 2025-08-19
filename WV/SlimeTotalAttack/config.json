@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://play.top88h.com/?a=exo_e64ac8405b813f8a983f007d8fb6bf7f&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
+    "auth":"3443434",
+    "request":"https://play.b52.cc/?a=exo_4db69f370c24059abc326adc411de2a1&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
     "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"TO",
+    "gameName":"B5",
     "domain":[
-        "https://play.top88h.com/"
+        "https://play.b52.cc/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
