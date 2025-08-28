@@ -1,10 +1,11 @@
 {
-    "auth":"62186481629162847129264",
-    "request":"https://i.vip79.com/?a=exo_c92aea04aa6e95e6cff6289d2e1b36f4",
+    "auth":"855285",
+    "request":"https://play.tipclub.win/?a=exo_f98c7b602c862692f4c321633277f2be",
     "orientation":"portrait",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
+    "gameName":"TI",
     "domain":[
-        "https://i.vip79.com/"
+        "https://play.tipclub.win/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
