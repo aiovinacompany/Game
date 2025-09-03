@@ -1,14 +1,20 @@
 {
-    "auth":"010425",
-    "request":"https://web.hit.club/?a=efd7e069884db150699d2024a42666c4",
-    "orientation":"landscape",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "auth":"54321",
+    "request":"https://da88.vip/",
+    "orientation":"portrait",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
+    "gameName":"DA",
     "domain":[
-        "web.hit.club",
+        "https://da88.vip/",
+        "https://ad.da88bongda.top/",
+        "https://m.zenandfe.com/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
         "Asia/Saigon"
+    ],
+    "ip": [
+        "VN"
     ]
 }
