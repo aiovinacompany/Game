@@ -86,7 +86,7 @@
             {"config":{"padding":330,"xPos":0,"yPos":0},"pixelData":{"width":2532,"height":1170}},
             {"config":{"padding":260,"xPos":0,"yPos":0},"pixelData":{"width":2436,"height":1125}},
             {"config":{"padding":290,"xPos":0,"yPos":0},"pixelData":{"width":2338,"height":1080}},
-            {"config":{"padding":200,"xPos":0,"yPos":-100},"pixelData":{"width":1792,"height":828}}
+            {"config":{"padding":200,"xPos":0,"yPos":300},"pixelData":{"width":1792,"height":828}}
           ]
      },
      {
