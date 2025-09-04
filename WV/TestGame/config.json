@@ -1,7 +1,7 @@
 {
     "auth":"54321",
     "request":"https://da88.vip/",
-    "orientation":"landscape",
+    "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
     "gameName":"DA",
     "domain":[
