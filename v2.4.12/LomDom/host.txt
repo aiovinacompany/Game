@@ -1,0 +1,1 @@
+https://n66.sgp1.digitaloceanspaces.com/app.json,sgame
