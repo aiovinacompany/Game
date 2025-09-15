@@ -1,11 +1,11 @@
 {
-    "auth":"54321",
-    "request":"https://da88.vip/?a=exo_2a71afaebe561f3c9ba5137036e0f38d&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term=%7Bzoneid%7D",
-    "orientation":"portrait",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"DA",
+    "auth":"7623763",
+    "request":"https://play.k.club/?a=exo_bdcd6c1e72c21cf3cfb7e2baa2330de7&utm_campaign=googleads&utm_source=dai&utm_medium=app",
+    "orientation":"landscape",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "gameName":"KC",
     "domain":[
-        "https://da88.vip/"
+        "https://play.k.club/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
