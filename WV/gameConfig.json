@@ -131,7 +131,7 @@
             {"config":{"padding":340,"paddingY":80,"xPos":0,"yPos":0},"pixelData":{"width":2532,"height":1170}},
             {"config":{"padding":260,"paddingY":80,"xPos":0,"yPos":0},"pixelData":{"width":2436,"height":1125}},
             {"config":{"padding":290,"paddingY":80,"xPos":0,"yPos":0},"pixelData":{"width":2338,"height":1080}},
-            {"config":{"padding":300,"paddingY":80,"xPos":0,"yPos":0},"pixelData":{"width":1792,"height":828}}
+            {"config":{"padding":200,"paddingY":80,"xPos":0,"yPos":-30},"pixelData":{"width":1792,"height":828}}
           ]
      }
 ]
