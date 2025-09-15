@@ -119,6 +119,7 @@
             {"config":{"padding":200,"paddingY":80,"xPos":0,"yPos":0},"pixelData":{"width":1792,"height":828}}
           ]
      },
+     {
          "key" : "KC",
          "value": [
             {"config":{"padding":390,"paddingY":80,"xPos":0,"yPos":0},"pixelData":{"width":2868,"height":1320}},
