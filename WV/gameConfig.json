@@ -83,7 +83,7 @@
             {"config":{"padding":280,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":2778,"height":1284}},
             {"config":{"padding":280,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":2688,"height":1242}},
             {"config":{"padding":350,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":2556,"height":1179}},
-            {"config":{"padding":330,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":2532,"height":1170}},
+            {"config":{"padding":330,"paddingY":-60,"xPos":0,"yPos":0},"pixelData":{"width":2532,"height":1170}},
             {"config":{"padding":260,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":2436,"height":1125}},
             {"config":{"padding":290,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":2338,"height":1080}},
             {"config":{"padding":200,"paddingY":-100,"xPos":0,"yPos":0},"pixelData":{"width":1792,"height":828}}
