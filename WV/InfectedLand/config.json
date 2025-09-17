@@ -3,6 +3,7 @@
     "request":"https://i.hit.club/?a=efd7e069884db150699d2024a42666c4",
     "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "gameName":"TO",
     "domain":[
         "https://i.hit.club/"
     ],
