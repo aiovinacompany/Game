@@ -1,0 +1,18 @@
+{
+    "auth":"734958",
+    "request":"https://play.tipclub.win/?a=exo_f98c7b602c862692f4c321633277f2be",
+    "orientation":"portrait",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "gameName":"TI",
+    "domain":[
+        "https://play.tipclub.win"
+    ],
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ],
+    "ip": [
+        "VN"
+    ]
+}
