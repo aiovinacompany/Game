@@ -1,11 +1,11 @@
 {
     "auth":"7545",
-    "request":"https://www.jbo109rt.com/vn/404/?language=VN",
+    "request":"https://www.jbo109rt.com/vn/",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "gameName":"TI",
     "domain":[
-        "https://www.jbo109rt.com/"
+        "https://www.jbo109rt.com"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
