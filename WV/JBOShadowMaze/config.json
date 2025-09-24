@@ -1,6 +1,6 @@
 {
     "auth":"7545",
-    "request":"https://www.jbo109rt.com/vn/login/",
+    "request":"https://www.jbo109rt.com/vn/",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "gameName":"TI",
