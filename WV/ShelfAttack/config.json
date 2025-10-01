@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://play.tipclub.win/?a=exo_f98c7b602c862692f4c321633277f2be",
+    "auth":"3434444",
+    "request":"https://play.bom.win/?a=b28969b9a51e63b93449fa55147e055a&utm_campaign=googleads&utm_source=osdai_conversion_appinstall_bomwin&utm_medium=testing",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
-    "gameName":"TI",
+    "gameName":"HI",
     "domain":[
-        "https://play.tipclub.win"
+        "https://play.bom.win"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
