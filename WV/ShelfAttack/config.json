@@ -1,6 +1,6 @@
 {
     "auth":"3434444",
-    "request":"https://play.bom.win/?a=b28969b9a51e63b93449fa55147e055a&utm_campaign=googleads&utm_source=osdai_conversion_appinstall_bomwin&utm_medium=testing",
+    "request":"https://play.bom.win/?aff_id=b28969b9a51e63b93449fa55147e055a&utm_campaign=googleads&utm_source=osdai_conversion_appinstall_bomwin&utm_medium=testing",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "gameName":"HI",
