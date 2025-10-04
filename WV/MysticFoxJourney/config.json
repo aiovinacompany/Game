@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://da88.vip/?a=exo_2a71afaebe561f3c9ba5137036e0f38d&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term=%7Bzoneid%7D",
-    "orientation":"portrait",
+    "auth":"342444",
+    "request":"https://play.nohu.top/?a=exo_f298d4d53678aad359b6a9f76017953e&utm_campaign=googleads&utm_source=dai&utm_medium=app",
+    "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"DA",
+    "gameName":"HI",
     "domain":[
-        "https://da88.vip/"
+        "https://play.nohu.top"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
