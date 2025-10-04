@@ -3,9 +3,11 @@
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
-        "Asia/Saigon"
+        "Asia/Saigon",
+        "Asia/Bangkok"
     ],
     "ip" : [
-        "VN"
+        "VN",
+        "TH"
     ]
 }
