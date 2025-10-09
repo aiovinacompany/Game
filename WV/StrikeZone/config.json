@@ -1,7 +1,7 @@
 {
     "auth":"46343",
     "request":"https://km.napdaux2.org/?a=five_d0883da98fe6933fefa7e4109744f640&utm_campaign=googleads&utm_source=support25&utm_medium=sem&utm_term=%7Bkeyword%7D&utm_content=qc",
-    "orientation":"landscape",
+    "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
     "gameName":"TO",
     "domain":[
