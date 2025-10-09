@@ -1,11 +1,11 @@
 {
-    "auth":"2572",
-    "request":"https://play.tipclub.win/?a=exo_f98c7b602c862692f4c321633277f2be",
-    "orientation":"portrait",
+    "auth":"3443434",
+    "request":"https://i.b52.club/?a=exo_4db69f370c24059abc326adc411de2a1&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
+    "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"VI",
+    "gameName":"B5",
     "domain":[
-        "https://play.tipclub.win/"
+        "https://i.b52.club/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
