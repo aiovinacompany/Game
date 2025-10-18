@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://nc88.top/",
-    "orientation":"portrait",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"DA",
+    "auth":"44685",
+    "request":"https://cuuam.gosu.vn/home/intro/tay-doc",
+    "orientation":"landscape",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
+    "gameName":"CU",
     "domain":[
-        "https://nc88.top/"
+        "https://cuuam.gosu.vn/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
