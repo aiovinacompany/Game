@@ -62,16 +62,16 @@
      {
          "key" : "TI",
          "value": [
-            {"config":{"padding":380,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2868,"height":1320}},
-            {"config":{"padding":370,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2622,"height":1206}},
-            {"config":{"padding":350,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2796,"height":1290}},
-            {"config":{"padding":280,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2778,"height":1284}},
-            {"config":{"padding":280,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2688,"height":1242}},
-            {"config":{"padding":350,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2556,"height":1179}},
-            {"config":{"padding":330,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":2532,"height":1170}},
+            {"config":{"padding":380,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2868,"height":1320}},
+            {"config":{"padding":370,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2622,"height":1206}},
+            {"config":{"padding":350,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2796,"height":1290}},
+            {"config":{"padding":280,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2778,"height":1284}},
+            {"config":{"padding":280,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2688,"height":1242}},
+            {"config":{"padding":350,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2556,"height":1179}},
+            {"config":{"padding":330,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":2532,"height":1170}},
             {"config":{"padding":260,"paddingY":-95,"paddingBottom": 0,"xPos":0,"yPos":0},"pixelData":{"width":2436,"height":1125}},
             {"config":{"padding":290,"paddingY":-65,"paddingBottom": 0,"xPos":0,"yPos":0},"pixelData":{"width":2338,"height":1080}},
-            {"config":{"padding":200,"paddingY":-170,"paddingBottom": 180,"xPos":0,"yPos":0},"pixelData":{"width":1792,"height":828}}
+            {"config":{"padding":200,"paddingY":-170,"paddingBottom": 90,"xPos":0,"yPos":0},"pixelData":{"width":1792,"height":828}}
           ]
      },
      {
