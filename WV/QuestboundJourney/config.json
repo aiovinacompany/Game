@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://tip88.com/?a=exo_54cae597bae8db132d11afd2be5b8b2f&utm_campaign=googleads&utm_source=dai&utm_medium=app",
-    "orientation":"portrait",
+    "auth":"3443434",
+    "request":"https://i.b52.club/?a=exo_4db69f370c24059abc326adc411de2a1&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
+    "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"TI",
+    "gameName":"B5",
     "domain":[
-        "https://tip88.com/"
+        "https://i.b52.club/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
