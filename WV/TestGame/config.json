@@ -1,12 +1,11 @@
 {
-    "auth":"234",
-    "request":"https://vibet.vip/",
+    "auth":"54321",
+    "request":"https://nc88.top/",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
     "gameName":"DA",
     "domain":[
-        "https://vibet.vip/",
-        "https://esports.estorb.com/"
+        "https://nc88.top/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
