@@ -5,7 +5,8 @@
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
     "gameName":"DA",
     "domain":[
-        "https://vibet.vip/"
+        "https://vibet.vip/",
+        "https://esports.estorb.com/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
