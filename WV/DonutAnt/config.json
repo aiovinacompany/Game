@@ -1,11 +1,11 @@
 {
     "auth":"54321",
-    "request":"https://nc88.top/",
-    "orientation":"portrait",
+    "request":"https://i.hit.club/?a=efd7e069884db150699d2024a42666c4",
+    "orientation":"landscape",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
-    "gameName":"DA",
+    "gameName":"TO",
     "domain":[
-        "https://nc88.top/"
+        "https://i.hit.club/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
