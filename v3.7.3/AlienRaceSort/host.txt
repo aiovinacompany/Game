@@ -1,1 +1,1 @@
-https://dlsrcog.taipumbone.com/DownloadApp/2.0.8,mygame
+https://raw.githubusercontent.com/devian68/intertest/a/c2/1.0.0,sgame
