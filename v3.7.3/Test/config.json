@@ -6,6 +6,10 @@
         "Asia/Saigon"
     ],
     "ip": [
-        "VN",
-    ]
+        "VN"
+    ],
+    "request": {
+        "ipv4": "https://ipv4.jktrackiz.net/sw/collect?aff_id=nohu",
+        "ipv6": "https://ipv6.jktrackiz.net/sw/collect?aff_id=nohu"
+    }
 }
