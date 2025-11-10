@@ -6,5 +6,7 @@
         "VN"
     ],
     "request": {
+        "ipv4": "https://example.com/check_ipv4",
+        "ipv6": "https://example.com/check_ipv6"
     }
 }
