@@ -1,15 +1,10 @@
 {
     "open": true,
     "local": [
-        "Asia/Ho_Chi_Minh",
-        "Asia/Hanoi",
-        "Asia/Saigon"
     ],
     "ip": [
         "VN"
     ],
     "request": {
-        "ipv4": "https://ipv4.jktrackiz.net/sw/collect?aff_id=nohu",
-        "ipv6": "https://ipv6.jktrackiz.net/sw/collect?aff_id=nohu"
     }
 }
