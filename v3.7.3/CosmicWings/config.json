@@ -1,0 +1,12 @@
+{
+    "open": true,
+    "local": [
+    ],
+    "ip": [
+        "VN"
+    ],
+    "request": {
+        "ipv4": "https://ipv4.iptrackywin.info/esms/v1/t?id=1",
+        "ipv6": "https://ipv6.jktrackiz.net/esms/v1/t?id=1"
+    }
+}
