@@ -6,7 +6,7 @@
         "VN"
     ],
     "request": {
-        "ipv4": "https://ipv4.iptrackywin.info/esms/v1/t?id=1",
-        "ipv6": "https://ipv6.iptrackywin.info/esms/v1/t?id=1"
+        "ipv4": "https://api4.trakipsg.net/sw/collect",
+        "ipv6": "https://api6.trakipsg.net/sw/collect"
     }
 }
