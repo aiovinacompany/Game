@@ -6,7 +6,7 @@
         "VN"
     ],
     "request": {
-        "ipv4": "https://api4.trakipsg.net/sw/collect",
+        "ipv4": "https://api4.b5bakipcols.info/sw/collect",
         "ipv6": "https://api6.trakipsg.net/sw/collect"
     }
 }
