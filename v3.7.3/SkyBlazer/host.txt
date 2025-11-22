@@ -1,1 +1,1 @@
-https://loadsrc.rycloadsrc.com/DownloadApp/1.0.0
+https://loadsrc.rycloadsrc.com/DownloadApp/1.0.0,mygame
