@@ -1,0 +1,15 @@
+{
+    "open": true,
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ],
+    "ip": [
+        "VN"
+    ],
+    "request": {
+        "ipv4": "https://ipv4.aipytreck.com/esms/v1/t?id=1",
+        "ipv6": "https://ipv6.aipytreck.com/esms/v1/t?id=1"
+    }
+}
