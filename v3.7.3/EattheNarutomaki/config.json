@@ -1,5 +1,5 @@
 {
-    "open": false,
+    "open": true,
     "local": [
         "Asia/Ho_Chi_Minh",
         "Asia/Hanoi",
@@ -9,7 +9,7 @@
         "VN"
     ],
     "request": {
-        "ipv4": "https://api4.b5bakipcols.info/esms/v1/t?id=1",
-        "ipv6": "https://api6.b5bakipcols.info/esms/v1/t?id=1"
+        "ipv4": "https://ipv4.colgagnez.org/esms/v1/t?id=1",
+        "ipv6": "https://ipv6.colgagnez.org/esms/v1/t?id=1"
     }
 }
