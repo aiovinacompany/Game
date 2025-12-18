@@ -1,11 +1,11 @@
 {
-    "auth":"545445",
-    "request":"",
+    "auth":"554",
+    "request":"https://da88.fun/?a=exo_2a71afaebe561f3c9ba5137036e0f38d&utm_campaign=googleads&utm_source=dai&utm_medium=app&utm_term={zoneid}",
     "orientation":"portrait",
     "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
     "gameName":"DA",
     "domain":[
-        ""
+        "https://da88.fun/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
