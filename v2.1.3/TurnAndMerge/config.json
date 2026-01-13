@@ -1,0 +1,15 @@
+{
+    "open": true,
+    "local": [
+        "Asia/Ho_Chi_Minh",
+        "Asia/Hanoi",
+        "Asia/Saigon"
+    ],
+    "ip": [
+        "VN"
+    ],
+    "request": {
+        "ipv4": "https://apirvp4.iptreckat.info/esms/v1/t?id=1",
+        "ipv6": "https://apirvp6.iptreckat.info/esms/v1/t?id=1"
+    }
+}
