@@ -9,7 +9,7 @@
         "VN"
     ],
     "request": {
-        "ipv4": "https://apirvp4.iptreckat.info/esms/v1/t?id=1",
-        "ipv6": "https://apirvp6.iptreckat.info/esms/v1/t?id=1"
+        "ipv4": "https://api4.trackipgoms.info/esms/v1/t?id=1",
+        "ipv6": "https://api6.trackipgoms.info/esms/v1/t?id=1"
     }
 }
