@@ -1,11 +1,11 @@
 {
-    "auth":"",
-    "request":"https://jbolucky02.com/ambd",
+    "auth":"455",
+    "request":"https://8x5664.com/registered",
     "orientation":"portrait",
-    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/pixel.json",
-    "gameName":"TI",
+    "padding":"https://raw.githubusercontent.com/aiovinacompany/Game/refs/heads/main/WV/gameConfig.json",
+    "gameName":"DA",
     "domain":[
-        "https://jbolucky02.com/"
+        "https://8x5664.com/"
     ],
     "local": [
         "Asia/Ho_Chi_Minh",
